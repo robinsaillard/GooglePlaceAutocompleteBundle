@@ -1,5 +1,5 @@
 {
-    "name": "cethyworks/google-place-autocomplete-bundle",
+    "name": "robinsaillard/google-place-autocomplete-bundle",
     "license": "MIT",
     "description": "Provides a Google Place Autocomplete Type, the most minimalist, unobtrusive way possible.",
     "type": "symfony-bundle",
