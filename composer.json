@@ -4,7 +4,7 @@
     "description": "Provides a Google Place Autocomplete Type, the most minimalist, unobtrusive way possible.",
     "homepage": "https://github.com/robinsaillard/GooglePlaceAutocompleteBundle",
     "type": "symfony-bundle",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "php": ">=7.0",
         "cethyworks/content-injector-bundle": "^3.0|^5.0|^6.0",
